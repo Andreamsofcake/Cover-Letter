@@ -4,14 +4,15 @@
 
 I have several reasons why I want to learn Web Development: 
 
-* Tired of dead end jobs.
-* Want to have more control over who I work for 
+* Tired of dead end jobs
+* Want to have more control over who I work for
 * Want to be able to take my skills to other places
 * Find ways to contribute to a global community
 * Make more money
 * Continue my education in a field that needs more women
 
-  I have tried teaching myself, but I worry if I am up to the standards. Also I want to be able to show an employer that I have the skills. After meeting with Chris at one of the socials I am convinced that I can complete the immersion course and become a full-stack developer. 
+
+I have tried teaching myself, but I worry if I am up to the standards. Also I want to be able to show an employer that I have the skills. After meeting with Chris at one of the socials I am convinced that I can complete the immersion course and become a full-stack developer. 
 
 Regardless if you enroll me, I will continue down this path. PCS would give me the confidence that I think is missing from myself study. Hopefully I’m the right fit for your classes. 
 
